@@ -18,3 +18,20 @@
 Ближайшая необходимость в отделе - добавить одного junior android разработчика из-за частой заполненности на 100% android разработки.
 В том числе необходимо при первой возможности нанять Middle ios разработчика для работы над ios проектами.
 
+# Технологии на проектах
+На android: 
+- Kotlin - основной язык разработки 
+- Java - обязательны знания по нем. Не используем в качестве основного языка разработки, но нужен для понимания работы кода, правки и поиска решения в java проектах.
+- [Retrofit](https://github.com/square/retrofit) - библиотека для работы с API запросами
+- [KoDeIn](https://github.com/Kodein-Framework/Kodein-DI) 
+- [Realm](https://docs.mongodb.com/realm-legacy/docs/kotlin/latest/index.html) - NoSql database. База данных для работы на проектах. 
+- [Moxy](https://github.com/Arello-Mobile/Moxy) - используем для построение mvp, а так же решения проблем при поворотах экрана
+- [Glide]()https://github.com/bumptech/glide) - Библиотека для загрузки, отображения, сжатия и кеширования изображений. Сильно облегчает работу с ними на усторйстве.
+-  mvp/Mvvm
+-  [RxJava2](https://github.com/ReactiveX/RxAndroid) - фреймворк для работы с потоками и коллекциями.
+-  [OkHttp3](https://square.github.io/okhttp/4.x/okhttp/okhttp3/) 
+-  Timber 
+-  pusher
+-  rollbar
+-  gson
+-  KTLint
