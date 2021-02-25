@@ -4,14 +4,14 @@
 
 # Состав отдела
 
-Вячеслав Протасеня - android/flutter разработчик, middle
-Игорь Янчук - android/flutter разработчик, middle
-Григорий Зауличный - ios разработчик, junior
-Богатко Александр - android/flutter разработчик, Lead mobile
+- Вячеслав Протасеня - android/flutter разработчик, middle
+- Игорь Янчук - android/flutter разработчик, middle
+- Григорий Зауличный - ios разработчик, junior
+- Богатко Александр - android/flutter разработчик, Lead mobile
 
 Проходят internship:
-Никита Мироша - intern android
-Андрей Калоша - intern android
+- Никита Мироша - intern android
+- Андрей Калоша - intern android
 
 # Поиск сотрудников в отдел
 
