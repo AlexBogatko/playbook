@@ -10,8 +10,8 @@
 - Богатко Александр - android/flutter разработчик, Lead mobile
 
 Проходят internship:
-- Никита Мироша - intern android
-- Андрей Калоша - intern android
+- Никита Мироша - intern android. Ментор - Вячеслав Протасеня
+- Андрей Калоша - intern android. Ментор - Игорь Янчук
 
 # Поиск сотрудников в отдел
 
@@ -38,3 +38,4 @@
 
 # Матрица компетенций
  ![Матрица компетенций](https://github.com/AlexBogatko/playbook/blob/main/images/competentions.png)
+ 
