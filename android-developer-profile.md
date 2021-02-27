@@ -4,8 +4,8 @@
 
 # Состав отдела
 
-- Вячеслав Протасеня - android/flutter разработчик, middle
-- Игорь Янчук - android/flutter разработчик, middle
+- Вячеслав Протасеня - android/flutter разработчик, middle+
+- Игорь Янчук - android/flutter разработчик, middle+
 - Григорий Зауличный - ios разработчик, junior
 - Богатко Александр - android/flutter разработчик, Lead mobile
 
