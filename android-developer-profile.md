@@ -45,4 +45,4 @@
 | \*\*\*\* | Эксперт, знаю тонкости, готов делиться лайфхаками с коллегами |
 | \*\*\*\*\* | Гуру, готов выступать на внешних конференциях |
 
- [Матрица компетенция](https://github.com/AlexBogatko/playbook/blob/main/images/competentions.png)
+ ![Матрица компетенций](https://github.com/AlexBogatko/playbook/blob/main/images/competentions.png)
