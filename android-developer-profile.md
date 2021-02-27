@@ -53,3 +53,16 @@ Javascript в целом очень слабый у команды. Необхо
 | junior | 400 - 1000$ |
 | middle | 1200 - 2200$ |
 | senior | 2000 - 3500$ |
+
+
+# Идеальный планируемый отдел мобильной разработки
+iOS
+- Один миддл-сеньор
+- Один джуниор-миддл
+
+Android/Flutter
+- middle android/flutter
+- middle android/flutter
+- senior lead android/flutter/ios
+- junior android
+- junior flutter 
